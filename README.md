@@ -1,4 +1,5 @@
 ### Hi there 👋, my name is Domenico aka Roos
+![](https://miro.medium.com/max/880/1*KhxTw-tTuNN8hhmbF3uzVw.png)
 
 I am a programmer who loves his work, who likes to create projects and never finish them
 
