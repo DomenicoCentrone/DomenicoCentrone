@@ -1,10 +1,8 @@
 ### Hi there 👋, my name is Domenico aka Roos
 ![](https://miro.medium.com/max/880/1*KhxTw-tTuNN8hhmbF3uzVw.png)
 
-I am a programmer who loves his work, who likes to create projects and never finish them
+Front-End|Solidity Developer with a proven ability to collaborate with other developers while spending extra time to be mentored. With a passion for both Front-End and Blockchain. I build Websites and SmartContract, turning both into a dApp (decentralized Application) with on-demand purposes. Ready to apply my passion for coding to a talented team to develop quality code.
 
 Skills:  REACT / JS / HTML / CSS / PHP / SOLIDITY / NODEJS
 
-- 🔭 I’m currently working on SafeArt as Solidity Developer 
-- 👯 I’m looking to collaborate on NFTs Startup  
-- 📫 How to reach me: https://www.linkedin.com/in/centronedomenico/ 
+- https://www.linkedin.com/in/centronedomenico/
