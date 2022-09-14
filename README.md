@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Domenico aka Roos
+### Hi there 👋, my name is Domenico
 
 ![giphy](https://user-images.githubusercontent.com/76876906/190179170-8b344760-6506-4837-91b7-1ec367b7f43c.gif)
 
