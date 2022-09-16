@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Domenico</h1>
+<h1 align="center">I AM DOMENICO<br><br/>
+REACT | WEB3 DEVELOPER</h1>
 
 <img align="center">![giphy](https://user-images.githubusercontent.com/76876906/190179170-8b344760-6506-4837-91b7-1ec367b7f43c.gif)</img>
 
