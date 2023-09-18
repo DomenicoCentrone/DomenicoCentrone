@@ -1,5 +1,5 @@
 <h1 align="center">I AM DOMENICO<br><br/>
-REACT | WEB3 DEVELOPER</h1>
+FULL STACK DEV | WEB3 DEV</h1>
 
 <img align="center">![giphy](https://user-images.githubusercontent.com/76876906/190179170-8b344760-6506-4837-91b7-1ec367b7f43c.gif)</img>
 
