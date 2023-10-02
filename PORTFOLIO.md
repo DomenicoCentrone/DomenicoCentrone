@@ -1,6 +1,6 @@
-# 🎨 PORTfolio
+# 🎨 PORTFOLIO
 
-Benvenuto nel mio PORTfolio! Qui potrai trovare una selezione di progetti su cui ho lavorato e una breve descrizione di ciascun cliente.
+Benvenuto nel mio portfolio! Qui potrai trovare una selezione di progetti su cui ho lavorato e una breve descrizione di ciascun cliente.
 
 ---
 
@@ -69,4 +69,4 @@ Benvenuto nel mio PORTfolio! Qui potrai trovare una selezione di progetti su cui
 
 ---
 
-Grazie per aver visitato il mio PORTfolio! 🙌 Per ulteriori dettagli o per collaborazioni, sentiti libero di contattarmi!
+Grazie per aver visitato il mio portfolio! 🙌 Per ulteriori dettagli o per collaborazioni, sentiti libero di contattarmi!
