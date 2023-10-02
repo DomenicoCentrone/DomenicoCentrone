@@ -1,9 +1,73 @@
-<h1 align="center">I AM DOMENICO<br><br/>
-FULL STACK DEV | WEB3 DEV</h1>
+# Centrone Domenico - Programmatore Web
 
-<img align="center">![giphy](https://user-images.githubusercontent.com/76876906/190179170-8b344760-6506-4837-91b7-1ec367b7f43c.gif)</img>
+![Banner](link-all'immagine-del-banner-se-ce-ne-è-uno)
 
+📞 **Telefono:** +39 340 1504913  
+📧 **Email:** [domenico.work22@gmail.com](mailto:domenico.work22@gmail.com)  
+🌐 **Sito Web:** [roswp.com](http://roswp.com)  
+
+---
+
+## 🙋 Chi sono
 Programmatore web in fase di apprendimento con una crescente esperienza nello sviluppo di applicazioni web e siti internet. Desideroso di collaborare in team e apprendere per meglio soddisfare le esigenze dei clienti.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
+
+## 📚 Formazione
+- **Scuola Superiore Primo Levi** - Istituto professionale
+- **Certificato Aulab** - Corso
+
+---
+
+## 💼 Esperienze Lavorative
+### FrogPay, Estero - Remoto
+**Sviluppatore Front-End/Web3** | Ago. 2021 - Dic. 2022  
+- Creazione di un'app React da zero, implementazione della tecnologia blockchain.
+- Sviluppo di smart contract come erc-20, erc-721 per collezioni di NFT o token.
+- Generazione di collezioni di NFT con metadati utilizzando Javascript e Node.
+- Partecipazione al lancio di una startup e lavoro sulla crescita della community.
+
+### SafeArt, Milano - Remoto
+**Sviluppatore Front-End** | Luglio 2022  
+- Creazione di un'app React seguendo un progetto su Figma.
+- Design responsive e integrazione di varie librerie.
+- Collaborazione con il cliente per raggiungere obiettivi prefissati.
+
+### Consulente di Sviluppo Web
+**Sviluppatore Web** | Febbraio 2023  
+- Consultazione e sviluppo web per diversi clienti.
+- Gestione completa del processo di sviluppo dal concept alla consegna.
+
+### Glam Italia Srls, Rome - Remoto
+**Web Developer** | April 2023 - Presente  
+- Collaborazione con azienda di marketing per creare siti web per diversi clienti.
+- Gestione di progetti, dalla raccolta del materiale allo sviluppo del sito.
+
+---
+
+## 🌍 Lingue
+- **Italiano** - Madrelingua
+- **Inglese** - Fluente
+
+---
+
+## 👤 Referenze
+Disponibili su richiesta.
+
+---
+
+## 🛠 Competenze
+- HTML
+- CSS
+- JavaScript
+- React
+- Solidity
+- Node
+- Firebase
+- WordPress
+- Blockchain
+- ChatGPT
+
+---
+
+Per ulteriori dettagli o collaborazioni, sentiti libero di contattarmi direttamente!
