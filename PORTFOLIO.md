@@ -8,6 +8,7 @@ Benvenuto nel mio portfolio! Qui potrai trovare una selezione di progetti su cui
 🔗 [evocamp.it](https://www.evocamp.it/)  
 **Descrizione:** Un'oasi di divertimento ed educazione attraverso sport per bambini. Organizziamo campi sportivi che fondono attività fisica, apprendimento e divertimento.
 ![evocamp](https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/8bfc8ab5-f91d-4659-8d51-78c4fde2c2d9)
+<img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/8bfc8ab5-f91d-4659-8d51-78c4fde2c2d9" alt="evocamp" height="200">
 
 ---
 
