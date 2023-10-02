@@ -95,9 +95,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ---
 
-### 🏡 Z
-
-anin Immobiliare
+### 🏡 Zm6 Immobiliare
 🔗 [zaninimmobiliare.com](https://zaninimmobiliare.com/)  
 **Descrizione:** Un portale immobiliare progettato per semplificare la ricerca di proprietà, offrendo una navigazione intuitiva e presentando le offerte in modo chiaro ed elegante.
 <div align="center">
