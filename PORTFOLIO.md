@@ -32,7 +32,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 ---
 
 ### 🌩️ METEO APP IN REACT
-🔗 [meteo app](https://github.com/DomenicoCentrone/meteo-app)
+🔗 [REPO](https://github.com/DomenicoCentrone/meteo-app)
 **Descrizione:** Questo progetto è una semplice applicazione React che permette agli utenti di cercare le condizioni meteo di una specifica città e mostra un'immagine di quella città.
 <div align="center">
     <img src="https://user-images.githubusercontent.com/76876906/271990291-e1db41a6-d4a8-483e-bb7c-961083db2dc5.png" alt="frogpay" height="400">
@@ -59,7 +59,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 ---
 
 ### 📚 Quiz React Game 
-🔗 [Quiz Game](https://github.com/DomenicoCentrone/quiz-react-app-game/tree/main)
+🔗 [REPO](https://github.com/DomenicoCentrone/quiz-react-app-game/tree/main)
 **Descrizione:** Un quiz game realizzato con React. Questa app propone domande suddivise per difficoltà e consente agli utenti di selezionare la difficoltà che preferiscono. Ogni domanda ha quattro opzioni di risposta, con una sola risposta corretta. Alla fine mostra una lista con i risultati.
 <div align="center">
     <img src="https://user-images.githubusercontent.com/76876906/272008487-eca6b973-0b71-4ee8-a9e7-cb79497474fd.png" alt="pietro" height="400">
@@ -85,7 +85,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 ---
 
 ### 🏞 Tic-Tac-Toe
-🔗 [tic-tac-toe](https://github.com/DomenicoCentrone/Tic-Tac-Toe-react)
+🔗 [REPO](https://github.com/DomenicoCentrone/Tic-Tac-Toe-react)
 **Descrizione:** Un semplice gioco di Tic-Tac-Toe realizzato con React.
 <div align="center">
     <img src="https://user-images.githubusercontent.com/76876906/271990212-e64ff636-f13f-4840-b42f-d890b1e145eb.png" alt="evocamp" height="400">
@@ -112,7 +112,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 ---
 
 ### 🖼 SafeArt Dapp v2
-🔗 [SafeArt Dapp v2](https://magical-monstera-dee01e.netlify.app/)
+🔗 [DEMO](https://magical-monstera-dee01e.netlify.app/)
 **Descrizione**: SafeArt crea collezioni NFT di vari artisti in giro per il globo. Unendo arte e tecnologia, offre un portale dove gli artisti possono mostrare il loro talento in formato digitale attraverso gli NFT.
 <div align="center">
     <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/ee3ce440-3434-483d-8e1e-7627ca8a0224" alt="safeart" height="400">
@@ -121,7 +121,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 ---
 
 ### 🧩 QR Code Generator
-🔗 [QR Code Generator](https://ubiquitous-phoenix-f5eeda.netlify.app/)
+🔗 [REPO](https://github.com/DomenicoCentrone/Qr-Code-Generator)
 **Descrizione**: Questo strumento offre una soluzione semplice e rapida per generare codici QR. Basta fornire un link e il generatore creerà un QR code pronto all'uso, ottimo per eventi, marketing o qualsiasi altra necessità.
 <div align="center">
     <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/e4f24a63-4e83-44ef-a6cf-673f6e8db458" alt="qrcode" height="400">
@@ -139,7 +139,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 ---
 
 ### 📱 IOS Clone App
-🔗 [ios clone app](https://preeminent-stardust-cd8e1f.netlify.app/)
+🔗 [REPO](https://github.com/DomenicoCentrone/calcolatrice-scientifica-react/blob/main/README.md)
 **Descrizione:** Un sito web che fonde la passione per i giochi di ruolo con le più moderne tecnologie, offrendo un'esperienza digitale avanzata per gli appassionati di Dungeons & Dragons.
 <div align="center">
     <img src="https://user-images.githubusercontent.com/76876906/272027578-a1ab41b6-0d56-4d6d-873a-923980bafacd.jpg" alt="dnd" height="400">
