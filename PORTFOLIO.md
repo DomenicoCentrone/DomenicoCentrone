@@ -104,9 +104,6 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ---
 
-Grazie per aver dedicato del tempo a esplorare i miei progetti. Spero di poter collaborare con voi in futuro. Non esitate a contattarmi per qualsiasi domanda o ulteriori informazioni.
-
-**Cordiali saluti,  
 Domenico Centrone**
 
 ---
