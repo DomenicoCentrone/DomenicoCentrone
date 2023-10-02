@@ -31,6 +31,15 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ---
 
+### 🌩️ METEO APP IN REACT
+🔗 [meteemojio app](https://github.com/DomenicoCentrone/meteo-app)
+**Descrizione:** Questo progetto è una semplice applicazione React che permette agli utenti di cercare le condizioni meteo di una specifica città e mostra un'immagine di quella città.
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/76876906/271990291-e1db41a6-d4a8-483e-bb7c-961083db2dc5.png" alt="frogpay" height="400">
+</div>
+
+---
+
 ### 🚀 Giovannini & Partners
 🔗 [giovanninipartners.it](https://giovanninipartners.it/)
 **Descrizione:** Un sito web pensato per rappresentare l'expertise nel settore societario, bancario e finanziario. L'interfaccia e la struttura permettono una facile navigazione e accesso alle informazioni chiave.
@@ -49,6 +58,15 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ---
 
+### 📚 Quiz React Game 
+🔗 [Quiz Game](https://github.com/DomenicoCentrone/quiz-react-app-game/tree/main)
+**Descrizione:** Un quiz game realizzato con React. Questa app propone domande suddivise per difficoltà e consente agli utenti di selezionare la difficoltà che preferiscono. Ogni domanda ha quattro opzioni di risposta, con una sola risposta corretta. Alla fine mostra una lista con i risultati.
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/76876906/272008487-eca6b973-0b71-4ee8-a9e7-cb79497474fd.png" alt="pietro" height="400">
+</div>
+
+---
+
 ### 🦅 Gioco del Corvo BOT Telegram
 **Descrizione:** Uno dei miei progetti personali è il bot Telegram interattivo, dove gli utenti possono giocare a turni in stile "rovinato dal corvo", un mix di strategia, fortuna e intuizione.
 <div align="center">
@@ -62,6 +80,15 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 **Descrizione:** Ho contribuito a creare un'esperienza unica per i bambini con Evocamp, un campo sportivo che combina attività fisica, apprendimento e divertimento. Il sito è stato progettato per immergere l'utente nell'esperienza offerta da Evocamp, combinando visivamente attività fisica, apprendimento e divertimento.
 <div align="center">
     <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/8bfc8ab5-f91d-4659-8d51-78c4fde2c2d9" alt="evocamp" height="400">
+</div>
+
+---
+
+### 🏞 Tic-Tac-Toe
+🔗 [tic-tac-toe](https://github.com/DomenicoCentrone/Tic-Tac-Toe-react)
+**Descrizione:** Un semplice gioco di Tic-Tac-Toe realizzato con React.
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/76876906/271990212-e64ff636-f13f-4840-b42f-d890b1e145eb.png" alt="evocamp" height="400">
 </div>
 
 ---
