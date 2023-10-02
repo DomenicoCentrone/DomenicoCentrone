@@ -1,6 +1,6 @@
-# 🎨 PORTfolio
+# 🎨 PORTFOLIO
 
-Benvenuto nel mio PORTfolio! Qui potrai trovare una selezione di progetti su cui ho lavorato e una breve descrizione di ciascun cliente.
+Benvenuto nel mio portfolio! Qui potrai trovare una selezione di progetti su cui ho lavorato e una breve descrizione di ciascun cliente.
 
 ---
 
@@ -51,4 +51,21 @@ Benvenuto nel mio PORTfolio! Qui potrai trovare una selezione di progetti su cui
 
 ---
 
-Grazie per aver visitato il mio PORTfolio! 🙌 Per ulteriori dettagli o per collaborazioni, sentiti libero di contattarmi!
+### 💄 Armocromia
+🔗 [aboutarmocromia.com](https://aboutarmocromia.com/)  
+**Descrizione:** Innamorati dei tuoi colori.
+
+---
+
+### 🎲 DnD-Next
+🔗 [dnd-next.com](https://dnd-next.com/)  
+**Descrizione:** DnD-Next ti permette di giocare a Dungeons & Dragons in un mondo fantastico guidato da un' AI.
+
+---
+
+### 🦅 Gioco del Corvo BOT Telegram
+**Descrizione:** CORVO è un gioco di strategia a distanza che durerà per più giorni. Lo scopo del gioco è sopravvivere alle strategie avversarie e rimanere l'ultimo giocatore.
+
+---
+
+Grazie per aver visitato il mio portfolio! 🙌 Per ulteriori dettagli o per collaborazioni, sentiti libero di contattarmi!
