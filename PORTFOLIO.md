@@ -99,7 +99,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 🔗 [zaninimmobiliare.com](https://zaninimmobiliare.com/)  
 **Descrizione:** Un portale immobiliare progettato per semplificare la ricerca di proprietà, offrendo una navigazione intuitiva e presentando le offerte in modo chiaro ed elegante.
 <div align="center">
-    <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/2940845c-124d-4884-9e5a-e7b5a3c37e25" alt="zanin" height="400">
+    <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/bc838ada-fcbc-451d-a718-77b43b83d69e" alt="zanin" height="400">
 </div>
 
 ---
