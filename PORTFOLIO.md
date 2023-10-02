@@ -33,7 +33,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ### 🚀 Giovannini & Partners
 🔗 [giovanninipartners.it](https://giovanninipartners.it/)  
-**Descrizione:** La collaborazione con Giovannini & Partners è stata più di una semplice consulenza; insieme abbiamo creato una vera e propria partnership strategica, trovando soluzioni che portano un reale vantaggio competitivo.
+**Descrizione:** Un sito web pensato per rappresentare l'expertise nel settore societario, bancario e finanziario. L'interfaccia e la struttura permettono una facile navigazione e accesso alle informazioni chiave.
 <div align="center">
     <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/d1307a1a-53c7-4746-b17b-1cd6064ae6f3" alt="giovannini" height="400">
 </div>
@@ -42,7 +42,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ### 💉 Pietro La Salvia
 🔗 [pietrolasalvia.it](https://pietrolasalvia.it/)  
-**Descrizione:** Ho avuto l'onore di lavorare con il Dott. La Salvia, un esperto nel campo della psichiatria e psicoterapia. La sua vasta esperienza combina pratica clinica e docenza universitaria.
+**Descrizione:** Ho avuto l'onore di lavorare con il Dott. La Salvia, un esperto nel campo della psichiatria e psicoterapia. La sua vasta esperienza combina pratica clinica e docenza universitaria. Questo sito mette in luce l'esperienza e la competenza del Dott. La Salvia, combinando contenuti clinici con un design sobrio ed elegante.
 <div align="center">
     <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/28d31f5a-e1e8-4191-a1ec-e3fb689ec2cb" alt="pietro" height="400">
 </div>
@@ -59,7 +59,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ### 🏞 Evocamp
 🔗 [evocamp.it](https://www.evocamp.it/)  
-**Descrizione:** Ho contribuito a creare un'esperienza unica per i bambini con Evocamp, un campo sportivo che combina attività fisica, apprendimento e divertimento.
+**Descrizione:** Ho contribuito a creare un'esperienza unica per i bambini con Evocamp, un campo sportivo che combina attività fisica, apprendimento e divertimento. Il sito è stato progettato per immergere l'utente nell'esperienza offerta da Evocamp, combinando visivamente attività fisica, apprendimento e divertimento.
 <div align="center">
     <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/8bfc8ab5-f91d-4659-8d51-78c4fde2c2d9" alt="evocamp" height="400">
 </div>
@@ -68,7 +68,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ### 🎶 WEEEB Sonic
 🔗 [weeebsonic.com](https://weeebsonic.com/)  
-**Descrizione:** Con WEEEB Sonic, ho potuto dimostrare la mia capacità di realizzare siti web in tempi rapidi, offrendo soluzioni efficaci in sole 48 ore.
+**Descrizione:** Un esempio di come un sito web possa essere realizzato con efficienza, garantendo allo stesso tempo estetica accattivante e funzionalità.
 <div align="center">
     <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/752e7483-d5eb-4409-adfc-23baba24f16a" alt="weeebsonic" height="400">
 </div>
@@ -77,7 +77,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ### 💄 Armocromia
 🔗 [aboutarmocromia.com](https://aboutarmocromia.com/)  
-**Descrizione:** Armocromia è stato un viaggio affascinante nel mondo dei colori. Ho aiutato a portare alla luce l'importanza di esprimere la propria individualità attraverso la palette di colori.
+**Descrizione:** Un viaggio online nel mondo dei colori, progettato per esaltare l'importanza dell'espressione individuale attraverso un design vibrante e coinvolgente.
 <div align="center">
     <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/7e6aaa3c-e639-4487-bc25-4ad017025ee7" alt="armocromia" height="400">
 </div>
@@ -86,7 +86,9 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ### 🎲 DnD-Next
 🔗 [dnd-next.com](https://dnd-next.com/)  
-**Descrizione:** DnD-Next mi ha permesso di combinare la mia passione per i giochi con la tecnologia avanzata, creando un'esperienza di Dungeons & Dragons supportata da intelligenza artificiale.
+**Descrizione:** Un sito web che fonde la passione per i giochi di ruolo con le più moderne tecnologie, offrendo un'esperienza digitale avanzata per gli appassionati di Dungeons & Dragons.
+
+
 <div align="center">
     <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/a7f7b1b3-cf30-498e-9d6f-db30da78f028" alt="dnd" height="400">
 </div>
@@ -97,7 +99,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 anin Immobiliare
 🔗 [zaninimmobiliare.com](https://zaninimmobiliare.com/)  
-**Descrizione:** Collaborando con Zanin Immobiliare, ho potuto offrire una piattaforma user-friendly che ha trasformato il modo in cui i clienti cercano la loro prossima casa.
+**Descrizione:** Un portale immobiliare progettato per semplificare la ricerca di proprietà, offrendo una navigazione intuitiva e presentando le offerte in modo chiaro ed elegante.
 <div align="center">
     <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/2940845c-124d-4884-9e5a-e7b5a3c37e25" alt="zanin" height="400">
 </div>
