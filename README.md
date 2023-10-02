@@ -1,9 +1,9 @@
 # Centrone Domenico - Programmatore Web
 
-![Banner](link-all'immagine-del-banner-se-ce-ne-è-uno)
 
 📧 **Email:** [domenico.work22@gmail.com](mailto:domenico.work22@gmail.com)  
 🌐 **Sito Web:** [roswp.com](http://roswp.com)  
+🎨 **Portfolio:** [Portfolio](https://github.com/DomenicoCentrone/DomenicoCentrone/blob/main/PORTFOLIO.md)  
 
 ---
 
@@ -15,48 +15,6 @@ Programmatore web in fase di apprendimento con una crescente esperienza nello sv
 ## 📚 Formazione
 - **Certificato Aulab** - Corso
 - **Scuola Superiore Primo Levi** - Istituto professionale
-
----
-
-## 🎨 Portfolio
-
-Ecco alcuni dei progetti che ho avuto il piacere di sviluppare:
-
-- **Evocamp**  
-  [evocamp.it](https://www.evocamp.it/)  
-  Camp sportivi per bambini.
-
-- **Cereda Legnami**  
-  [ceredalegnami.it](https://www.ceredalegnami.it/)  
-  Strutture in legno.
-
-- **FrogPay**  
-  [frogpay.io](https://frogpay.io/)  
-  World-first refund option on the blockchain.
-
-- **CFLF**  
-  [cflf.eu](https://cflf.eu/)  
-  Esperti nella regolamentazione societaria, bancaria e finanziaria. Preserviamo, con autorevolezza, diritti e aspettative offrendo attenta e qualificata consulenza preventiva ed assistenza giudiziaria avendo costantemente presente il globale assetto di interessi del Cliente.
-
-- **Giovannini & Partners**  
-  [giovanninipartners.it](https://giovanninipartners.it/)  
-  GCF genera vantaggio competitivo per i clienti grazie alla comprensione del business, alla gestione della tecnologia e alle competenze dei propri collaboratori.
-
-- **Pietro La Salvia**  
-  [pietrolasalvia.it](https://pietrolasalvia.it/)  
-  Medico specialista, psicanalista e psicoterapeuta con formazione universitaria in psichiatria clinica, neuropsichiatria infantile, psichiatria di consultazione e clinica psicosomatica, psichiatria occupazionale, docente universitario vive e lavora a Roma.
-
-- **ZM6**  
-  [zm6.it](https://zm6.it/)  
-  Abitazioni confortevoli e sicure, costruite per soddisfare le esigenze di ogni famiglia.
-
-- **WEEEB Sonic**  
-  [weeebsonic.com](https://weeebsonic.com/)
-  Siti web in 48 ore.
-
----
-
-Per ulteriori dettagli sui miei progetti o per collaborazioni, sentiti libero di contattarmi alla mail domenico.work22@gmail.com!
 
 ---
 
