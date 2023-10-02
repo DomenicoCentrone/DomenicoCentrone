@@ -8,7 +8,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 🔗 [cflf.eu](https://cflf.eu/)
 **Descrizione:** Ho collaborato con CFLF, esperti nel complicato mondo della regolamentazione. La loro profonda conoscenza nel settore societario, bancario e finanziario permette loro di fornire consulenze mirate e assistenza giuridica.
 <div align="center">
-    <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/b268767b-70fc-443f-9eb3-d7c966cab39d" alt="cflf" height="400" width="100">
+    <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/b268767b-70fc-443f-9eb3-d7c966cab39d" alt="cflf" height="400">
 </div>
 
 ---
