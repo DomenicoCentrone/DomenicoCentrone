@@ -23,7 +23,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 ---
 
 ### 🌐 FrogPay
-🔗 [frogpay.io](https://frogpay.io/)  
+🔗 [frogpay.io](https://frogpay.io/)
 **Descrizione:** FrogPay sta cambiando il modo in cui pensiamo alle transazioni, introducendo la prima opzione di rimborso basata su blockchain. Sono orgoglioso di aver fatto parte di questo progetto rivoluzionario.
 <div align="center">
     <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/db5aab39-eec2-46c5-a531-94968484d5a5" alt="frogpay" height="400">
