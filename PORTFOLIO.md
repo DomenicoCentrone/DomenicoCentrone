@@ -84,6 +84,22 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ---
 
+### 🖼 SafeArt Dapp v2
+🔗 SafeArt Dapp v2 on Netlify
+Descrizione: SafeArt crea collezioni NFT di vari artisti in giro per il globo. Unendo arte e tecnologia, offre un portale dove gli artisti possono mostrare il loro talento in formato digitale attraverso gli NFT.
+<div align="center">
+    <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/ee3ce440-3434-483d-8e1e-7627ca8a0224" alt="safeart" height="400">
+</div>
+
+---
+
+### 🧩 QR Code Generator
+🔗 QR Code Generator on Netlify
+Descrizione: Questo strumento offre una soluzione semplice e rapida per generare codici QR. Basta fornire un link e il generatore creerà un QR code pronto all'uso, ottimo per eventi, marketing o qualsiasi altra necessità.
+<div align="center">
+    <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/e4f24a63-4e83-44ef-a6cf-673f6e8db458" alt="qrcode" height="400">
+</div>
+
 ### 🎲 DnD-Next
 🔗 [dnd-next.com](https://dnd-next.com/)  
 **Descrizione:** Un sito web che fonde la passione per i giochi di ruolo con le più moderne tecnologie, offrendo un'esperienza digitale avanzata per gli appassionati di Dungeons & Dragons.
