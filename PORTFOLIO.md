@@ -97,7 +97,7 @@ Benvenuto nel mio portfolio! Qui potrai trovare una selezione di progetti su cui
 ### 🦅 Gioco del Corvo BOT Telegram
 **Descrizione:** Un bot Telegram interattivo che introduce un gioco a turni in stile "rovinato dal corvo". Una combinazione di strategia, fortuna e intuizione.
 <div align="center">
-    <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/fefb5eb0-44a6-473d-b2ed-c8bdf4ebc6f9" alt="corvo" height="400">
+    <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/ba327d8a-8a7e-481c-a777-13b5f3366f81" alt="corvo" height="400">
 </div>
 
 ---
