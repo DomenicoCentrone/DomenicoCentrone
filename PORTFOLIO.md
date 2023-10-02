@@ -4,11 +4,11 @@ Benvenuto nel mio portfolio! Qui potrai trovare una selezione di progetti su cui
 
 ---
 
-### 🏞 Evocamp
-🔗 [evocamp.it](https://www.evocamp.it/)  
-**Descrizione:** Un'oasi di divertimento ed educazione attraverso sport per bambini. Organizziamo campi sportivi che fondono attività fisica, apprendimento e divertimento.
+### 🏦 CFLF
+🔗 [cflf.eu](https://cflf.eu/)  
+**Descrizione:** Guide esperte nel labirinto della regolamentazione. Con una profonda comprensione del panorama societario, bancario e finanziario, offriamo consulenze mirate e assistenza giuridica.
 <div align="center">
-    <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/8bfc8ab5-f91d-4659-8d51-78c4fde2c2d9" alt="evocamp" height="400">
+    <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/b268767b-70fc-443f-9eb3-d7c966cab39d" alt="cflf" height="400">
 </div>
 
 ---
@@ -29,14 +29,6 @@ Benvenuto nel mio portfolio! Qui potrai trovare una selezione di progetti su cui
     <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/db5aab39-eec2-46c5-a531-94968484d5a5" alt="frogpay" height="400">
 </div>
 
----
-
-### 🏦 CFLF
-🔗 [cflf.eu](https://cflf.eu/)  
-**Descrizione:** Guide esperte nel labirinto della regolamentazione. Con una profonda comprensione del panorama societario, bancario e finanziario, offriamo consulenze mirate e assistenza giuridica.
-<div align="center">
-    <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/b268767b-70fc-443f-9eb3-d7c966cab39d" alt="cflf" height="400">
-</div>
 
 ---
 
@@ -58,11 +50,19 @@ Benvenuto nel mio portfolio! Qui potrai trovare una selezione di progetti su cui
 
 ---
 
-### 🏡 ZM6
-🔗 [zm6.it](https://zm6.it/)  
-**Descrizione:** Non solo case, ma veri e propri nidi familiari. Costruiamo abitazioni pensate per comfort, sicurezza e benessere, rispondendo alle esigenze di ogni nucleo familiare.
+### 🦅 Gioco del Corvo BOT Telegram
+**Descrizione:** Un bot Telegram interattivo che introduce un gioco a turni in stile "rovinato dal corvo". Una combinazione di strategia, fortuna e intuizione.
 <div align="center">
-    <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/75d17856-960c-46bb-8846-50eae9de2a42" alt="zm6" height="400">
+    <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/ba327d8a-8a7e-481c-a777-13b5f3366f81" alt="corvo" height="400">
+</div>
+
+---
+
+### 🏞 Evocamp
+🔗 [evocamp.it](https://www.evocamp.it/)  
+**Descrizione:** Un'oasi di divertimento ed educazione attraverso sport per bambini. Organizziamo campi sportivi che fondono attività fisica, apprendimento e divertimento.
+<div align="center">
+    <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/8bfc8ab5-f91d-4659-8d51-78c4fde2c2d9" alt="evocamp" height="400">
 </div>
 
 ---
@@ -94,10 +94,11 @@ Benvenuto nel mio portfolio! Qui potrai trovare una selezione di progetti su cui
 
 ---
 
-### 🦅 Gioco del Corvo BOT Telegram
-**Descrizione:** Un bot Telegram interattivo che introduce un gioco a turni in stile "rovinato dal corvo". Una combinazione di strategia, fortuna e intuizione.
+### 🏡 ZM6
+🔗 [zm6.it](https://zm6.it/)  
+**Descrizione:** Non solo case, ma veri e propri nidi familiari. Costruiamo abitazioni pensate per comfort, sicurezza e benessere, rispondendo alle esigenze di ogni nucleo familiare.
 <div align="center">
-    <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/ba327d8a-8a7e-481c-a777-13b5f3366f81" alt="corvo" height="400">
+    <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/75d17856-960c-46bb-8846-50eae9de2a42" alt="zm6" height="400">
 </div>
 
 ---
