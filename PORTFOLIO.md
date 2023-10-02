@@ -127,11 +127,22 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
     <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/e4f24a63-4e83-44ef-a6cf-673f6e8db458" alt="qrcode" height="400">
 </div>
 
+---
+
 ### 🎲 DnD-Next
 🔗 [dnd-next.com](https://dnd-next.com/)
 **Descrizione:** Un sito web che fonde la passione per i giochi di ruolo con le più moderne tecnologie, offrendo un'esperienza digitale avanzata per gli appassionati di Dungeons & Dragons.
 <div align="center">
     <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/a7f7b1b3-cf30-498e-9d6f-db30da78f028" alt="dnd" height="400">
+</div>
+
+---
+
+### 📱 IOS Clone App
+🔗 [ios clone app](https://preeminent-stardust-cd8e1f.netlify.app/)
+**Descrizione:** Un sito web che fonde la passione per i giochi di ruolo con le più moderne tecnologie, offrendo un'esperienza digitale avanzata per gli appassionati di Dungeons & Dragons.
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/76876906/272027578-a1ab41b6-0d56-4d6d-873a-923980bafacd.jpg" alt="dnd" height="400">
 </div>
 
 ---
