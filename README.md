@@ -52,6 +52,7 @@ Ecco alcuni dei progetti che ho avuto il piacere di sviluppare:
 
 - **WEEEB Sonic**  
   [weeebsonic.com](https://weeebsonic.com/)
+  Siti web in 48 ore.
 
 ---
 
