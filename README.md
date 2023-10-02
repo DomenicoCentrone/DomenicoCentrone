@@ -2,7 +2,6 @@
 
 ![Banner](link-all'immagine-del-banner-se-ce-ne-è-uno)
 
-📞 **Telefono:** +39 340 1504913  
 📧 **Email:** [domenico.work22@gmail.com](mailto:domenico.work22@gmail.com)  
 🌐 **Sito Web:** [roswp.com](http://roswp.com)  
 
@@ -14,8 +13,8 @@ Programmatore web in fase di apprendimento con una crescente esperienza nello sv
 ---
 
 ## 📚 Formazione
-- **Scuola Superiore Primo Levi** - Istituto professionale
 - **Certificato Aulab** - Corso
+- **Scuola Superiore Primo Levi** - Istituto professionale
 
 ---
 
