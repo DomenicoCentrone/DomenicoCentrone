@@ -118,6 +118,6 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ---
 
-Domenico Centrone**
+**Domenico Centrone**
 
 ---
