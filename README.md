@@ -19,6 +19,11 @@ Programmatore web in fase di apprendimento con una crescente esperienza nello sv
 ---
 
 ## 💼 Esperienze Lavorative
+### Glam Italia Srls, Rome - Remoto
+**Web Developer** | April 2023 - Presente  
+- Collaborazione con azienda di marketing per creare siti web per diversi clienti.
+- Gestione di progetti, dalla raccolta del materiale allo sviluppo del sito.
+
 ### FrogPay, Estero - Remoto
 **Sviluppatore Front-End/Web3** | Ago. 2021 - Dic. 2022  
 - Creazione di un'app React da zero, implementazione della tecnologia blockchain.
@@ -26,27 +31,22 @@ Programmatore web in fase di apprendimento con una crescente esperienza nello sv
 - Generazione di collezioni di NFT con metadati utilizzando Javascript e Node.
 - Partecipazione al lancio di una startup e lavoro sulla crescita della community.
 
+### Consulente di Sviluppo Web
+**Sviluppatore Web** | Febbraio 2023  
+- Consultazione e sviluppo web per diversi clienti.
+- Gestione completa del processo di sviluppo dal concept alla consegna.
+
 ### SafeArt, Milano - Remoto
 **Sviluppatore Front-End** | Luglio 2022  
 - Creazione di un'app React seguendo un progetto su Figma.
 - Design responsive e integrazione di varie librerie.
 - Collaborazione con il cliente per raggiungere obiettivi prefissati.
 
-### Consulente di Sviluppo Web
-**Sviluppatore Web** | Febbraio 2023  
-- Consultazione e sviluppo web per diversi clienti.
-- Gestione completa del processo di sviluppo dal concept alla consegna.
-
-### Glam Italia Srls, Rome - Remoto
-**Web Developer** | April 2023 - Presente  
-- Collaborazione con azienda di marketing per creare siti web per diversi clienti.
-- Gestione di progetti, dalla raccolta del materiale allo sviluppo del sito.
-
 ---
 
 ## 🌍 Lingue
-- **Italiano** - Madrelingua
 - **Inglese** - Fluente
+- **Italiano** - Madrelingua
 
 ---
 
