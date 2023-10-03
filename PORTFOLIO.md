@@ -124,7 +124,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 🔗 [DEMO]([https://jocular-baklava-b8d3ab.netlify.app/](https://github.com/DomenicoCentrone/coingecko-api-app/assets/76876906/b8da30ab-80d7-49d5-8076-34b5a3e9f786))
 **Descrizione:** Una semplice dashboard che mostra le top 10 criptovalute con dettagli come prezzo, variazione percentuale nelle ultime ore e giorni, volume e capitalizzazione di mercato. La dashboard è ottimizzata sia per dispositivi desktop che mobile.
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/76876906/272189366-4be42713-4e34-4179-8f32-87ab72e2e9b6.png" alt="weeebsonic" width="100%">
+    <img src="https://github.com/DomenicoCentrone/coingecko-api-app/assets/76876906/b8da30ab-80d7-49d5-8076-34b5a3e9f786" alt="weeebsonic" width="100%">
 </div>
 
 ---
