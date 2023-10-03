@@ -72,18 +72,18 @@ Da quando ho iniziato la mia esperienza presso E.L.L.F. S.r.l., mi sono occupato
 
 Durante il mio periodo come Primo Allenatore Coach presso la Polisportiva L Arena, ho dimostrato un costante senso di responsabilità, abbinato a una solida capacità didattica e una forte etica lavorativa. La mia dedizione è stata evidente in ogni momento, sempre rispettando le istruzioni fornite dal mio supervisore e mantenendo un atteggiamento positivo. Nel corso degli anni, ho sviluppato una filosofia di coaching personale e sono sempre stato responsabile per creare un ambiente positivo e costruttivo in cui la squadra potesse esibirsi al meglio delle sue capacità. La mia abilità di ispirare e motivare i giocatori è stata centrale, garantendo al contempo il rispetto degli standard legali, morali ed etici. Mi sono distinto come un comunicatore eccellente. Ho sempre dato grande importanza alla conoscenza e al rispetto delle regole. Infine, ritengo di essere stato un punto di riferimento positivo per ogni bambino sotto la mia supervisione e di aver contribuito a rendere la settimana piacevole non solo per i giocatori, ma anche per i miei colleghi allenatori.
 
-##
+---
 
 ## 🌍 Lingue
 - **Inglese** - Fluente
 - **Italiano** - Madrelingua
 
-##
+---
 
 ## 👤 Referenze
 Disponibili su richiesta.
 
-##
+---
 
 ## 🛠 Competenze
 - HTML
