@@ -33,6 +33,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ### 🌩️ METEO APP IN REACT
 🔗 [REPO](https://github.com/DomenicoCentrone/meteo-app)
+🔗 [DEMO](https://resilient-dasik-15f023.netlify.app/)
 **Descrizione:** Questo progetto è una semplice applicazione React che permette agli utenti di cercare le condizioni meteo di una specifica città e mostra un'immagine di quella città.
 <div align="center">
     <img src="https://user-images.githubusercontent.com/76876906/271990291-e1db41a6-d4a8-483e-bb7c-961083db2dc5.png" alt="frogpay" width="100%">
@@ -60,6 +61,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ### 📚 Quiz React Game 
 🔗 [REPO](https://github.com/DomenicoCentrone/quiz-react-app-game/tree/main)
+🔗 [DEMO](https://magenta-lamington-0e8dad.netlify.app/)
 **Descrizione:** Un quiz game realizzato con React. Questa app propone domande suddivise per difficoltà e consente agli utenti di selezionare la difficoltà che preferiscono. Ogni domanda ha quattro opzioni di risposta, con una sola risposta corretta. Alla fine mostra una lista con i risultati.
 <div align="center">
     <img src="https://user-images.githubusercontent.com/76876906/272008487-eca6b973-0b71-4ee8-a9e7-cb79497474fd.png" alt="pietro" width="100%">
@@ -86,6 +88,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ### 🏞 Tic-Tac-Toe
 🔗 [REPO](https://github.com/DomenicoCentrone/Tic-Tac-Toe-react)
+🔗 [DEMO](https://magenta-dragon-45c4ea.netlify.app/)
 **Descrizione:** Un semplice gioco di Tic-Tac-Toe realizzato con React.
 <div align="center">
     <img src="https://user-images.githubusercontent.com/76876906/271990212-e64ff636-f13f-4840-b42f-d890b1e145eb.png" alt="evocamp" width="100%">
@@ -98,6 +101,16 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 **Descrizione:** Un esempio di come un sito web possa essere realizzato con efficienza, garantendo allo stesso tempo estetica accattivante e funzionalità.
 <div align="center">
     <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/752e7483-d5eb-4409-adfc-23baba24f16a" alt="weeebsonic" width="100%">
+</div>
+
+---
+
+### 🦎 Coingecko App Clone Api React
+🔗 [REPO](https://github.com/DomenicoCentrone/coingecko-api-app)
+🔗 [DEMO](https://jocular-baklava-b8d3ab.netlify.app/)
+**Descrizione:** Una semplice dashboard che mostra le top 10 criptovalute con dettagli come prezzo, variazione percentuale nelle ultime ore e giorni, volume e capitalizzazione di mercato. La dashboard è ottimizzata sia per dispositivi desktop che mobile.
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/76876906/272189366-4be42713-4e34-4179-8f32-87ab72e2e9b6.png" alt="weeebsonic" width="100%">
 </div>
 
 ---
@@ -122,6 +135,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ### 🧩 QR Code Generator
 🔗 [REPO](https://github.com/DomenicoCentrone/Qr-Code-Generator)
+🔗 [DEMO](https://ubiquitous-phoenix-f5eeda.netlify.app/)
 **Descrizione**: Questo strumento offre una soluzione semplice e rapida per generare codici QR. Basta fornire un link e il generatore creerà un QR code pronto all'uso, ottimo per eventi, marketing o qualsiasi altra necessità.
 <div align="center">
     <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/e4f24a63-4e83-44ef-a6cf-673f6e8db458" alt="qrcode" width="100%">
@@ -140,7 +154,8 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ### 📱 IOS Clone App
 🔗 [REPO](https://github.com/DomenicoCentrone/calcolatrice-scientifica-react/blob/main/README.md)
-**Descrizione:** Un sito web che fonde la passione per i giochi di ruolo con le più moderne tecnologie, offrendo un'esperienza digitale avanzata per gli appassionati di Dungeons & Dragons.
+🔗 [DEMO](https://preeminent-stardust-cd8e1f.netlify.app/)
+**Descrizione:** Un clone della famosa app IOS Calcolatrice
 <div align="center">
     <img src="https://user-images.githubusercontent.com/76876906/272027578-a1ab41b6-0d56-4d6d-873a-923980bafacd.jpg" alt="dnd" width="100%">
 </div>
