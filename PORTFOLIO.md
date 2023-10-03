@@ -52,7 +52,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 ---
 
 ### <img height="22" width="22" src="https://camo.githubusercontent.com/07d41773dc451bb5113d0a4d0b0e98e652d51375c0f367b6ab8e08f594045b69/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f776f726470726573732f3030302f666666" /> 🏡 Zm6 Immobiliare
-🔗 [zaninimmobiliare.com](https://zaninimmobiliare.com/)
+🔗 [https://zm6.it/](https://zm6.it/)
 **Descrizione:** Un portale immobiliare progettato per semplificare la ricerca di proprietà, offrendo una navigazione intuitiva e presentando le offerte in modo chiaro ed elegante.
 <div align="center">
     <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/bc838ada-fcbc-451d-a718-77b43b83d69e" alt="zanin" width="100%">
