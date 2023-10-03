@@ -23,14 +23,20 @@ Programmatore web in fase di apprendimento con una crescente esperienza nello sv
 **Web Developer** | April 2023 - Presente  
 Ho collaborato con un'azienda importante  di marketing in cui mi venivano assegnati progetti/clienti che richiedevano la creazione di siti web. Ero responsabile di raccogliere il materiale e sviluppare il sito in tempi molto brevi, sia che si trattasse di una landing page o di un e-commerce.
 
+---
+
 ### FrogPay, Estero - Remoto
 **Sviluppatore Front-End/Web3** | Ago. 2021 - Dic. 2022  
 In seno alla Glam Italia Srls, una rinomata azienda di marketing, mi sono occupato dello sviluppo di siti web per diversi progetti e clienti. Il mio ruolo prevedeva non solo la realizzazione tecnica dei siti, ma anche una fase di ascolto e consulenza con il cliente. Era essenziale comprendere a fondo le esigenze del cliente e identificare gli obiettivi chiave da raggiungere attraverso il sito, che potesse trattarsi di una semplice landing page o di un più complesso e-commerce. Questo approccio collaborativo mi ha permesso di fornire soluzioni personalizzate e altamente efficaci. In questo percorso, ho stretto una proficua collaborazione con Fabio Arduini, che si occupava della ricerca e dell'acquisizione dei clienti. Una volta che Fabio Arduini presentava un nuovo cliente, ci incontravamo per una sessione di consulenza con il cliente stesso. Durante queste sessioni, definivamo insieme gli obiettivi da perseguire, dopodiché io procedevo con la progettazione e realizzazione del sito. Questa sinergia tra me e Fabio ha garantito un servizio completo ed efficiente, assicurando la massima soddisfazione del cliente.
+
+---
 
 ### Consulente di Sviluppo Web
 **Sviluppatore Web** | Febbraio 2023  
 Nella mia esperienza come consulente di sviluppo web, ho gestito l'intero ciclo di vita dei progetti, offrendo soluzioni personalizzate e ad alte prestazioni per una varietà di clienti. Ogni progetto iniziava con una fase cruciale di ascolto e analisi, durante la quale mi dedicavo a comprendere a fondo le esigenze e gli obiettivi del cliente. Successivamente, traducevo queste informazioni in soluzioni web innovative, garantendo che ogni sito fosse non solo esteticamente piacevole, ma anche funzionale e orientato ai risultati.
 In questa veste mi sono assunto personalmente la responsabilità di cercare e acquisire nuovi clienti. Questo ha comportato una serie di attività di prospezione, tra cui l'invio di e-mail mirate, chiamate, partecipazione a eventi di networking e sfruttamento del passaparola attraverso contatti esistenti e precedenti collaborazioni. Questo approccio proattivo alla ricerca di clienti non solo ha rafforzato le mie capacità commerciali, ma ha anche ampliato la mia rete professionale e ha permesso di instaurare relazioni durature con i clienti basate sulla fiducia e sul successo reciproco.
+
+---
 
 ### SafeArt, Milano - Remoto
 **Sviluppatore Front-End** | Luglio 2022  
@@ -38,20 +44,28 @@ Durante la mia esperienza presso SafeArt, ho avuto l'opportunità di avviare e g
 La generazione di collezioni di NFT con metadati è stata un'ulteriore fase cruciale del progetto, per la quale ho utilizzato strumenti come Javascript e Node. Questa fase ha richiesto una grande attenzione ai dettagli e una profonda comprensione delle dinamiche del mercato degli NFT.
 La mia avventura con SafeArt non si è limitata allo sviluppo tecnico. Infatti, ho avuto il privilegio di essere parte integrante del lancio di una startup. Questa esperienza mi ha offerto la possibilità di vedere da vicino tutte le sfide e le opportunità che nascono quando si porta una nuova idea al mercato. Inoltre, ho contribuito attivamente alla crescita della community, interagendo con gli utenti e ascoltando i loro feedback.
 
+---
+
 ### LTWID By Vintage Domus · A tempo pieno
 **Sviluppatore Web**
 
 Durante la mia esperienza presso LTWID By Vintage Domus, ho progettato e realizzato un'Applicazione Decentralizzata sulla rete Ethereum, utilizzando Solidity per la creazione di Smart Contracts e React per la progettazione delle interfacce utente. Allo stesso tempo, ho sviluppato e implementato diversi Smart Contracts seguendo vari standard di token, come ERC-20 e ERC-721. Questo percorso mi ha portato al lancio di una collezione generativa di NFT, rispettando gli standard universali di metadati attraverso l'uso di JavaScript e Node. L'integrazione dell'applicazione Front-End con Smart Contracts è stata ulteriormente potenziata dall'utilizzo di IPFS per immagazzinare dati NFT sulla blockchain. Ho avuto un ruolo attivo nello sviluppo end-to-end e nelle iniziative di crescita della community, accelerando il progetto dalla fase concettuale alla produzione effettiva. Parallelamente, ho ottimizzato il sito WordPress del cliente attraverso manutenzioni periodiche e aggiornamenti della piattaforma, al fine di potenziare il riconoscimento del brand e la fedeltà dei clienti. Inoltre, ho rinnovato una piattaforma eCommerce Shopify, contribuendo significativamente all'aumento delle vendite e dei ricavi per il cliente.
+
+---
 
 ### Nitwix · Stage Montecchio Emilia
 Sviluppatore Frontend | Apr 2015 - Nov 2015
 
 Durante il mio tirocinio presso Nitwix, ho avuto l'opportunità di progettare piattaforme eCommerce e di blogging utilizzando WordPress, dando vita a interfacce utente intuitive e offrendo esperienze utente coinvolgenti. Grazie alla guida di professionisti esperti, sono riuscito a imparare e applicare concetti fondamentali di programmazione. Questa esperienza è stata fondamentale e mi ha fatto comprendere che lo sviluppo web sarebbe stato il mio futuro.
 
+---
+
 ### E.L.L.F. S.r.l. Parma
 Tecnico Informatico | Gen 2021
 
 Da quando ho iniziato la mia esperienza presso E.L.L.F. S.r.l., mi sono occupato dell'installazione e della riparazione di apparecchiature e sistemi informatici, sia dal punto di vista hardware che software. La mia routine quotidiana comprendeva il supporto tecnico ai clienti, intervendo direttamente sul posto ogni volta che incontravano problemi con i loro computer. Le mie responsabilità spaziavano dalla realizzazione di backup, alla manutenzione hardware, aprendo e pulendo fisicamente i dispositivi, fino all'intervento su server e altri componenti informatici. Questo ruolo mi ha permesso di approfondire la mia competenza tecnica e di offrire soluzioni immediate e efficaci ai problemi informatici dei clienti.
+
+---
 
 ### Polisportiva L Arena - Montecchio Emilia
 **Primo Allenatore Coach** | Set 2014 - Feb 2022
