@@ -55,7 +55,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 🔗 [https://zm6.it/](https://zm6.it/)
 **Descrizione:** Un portale immobiliare progettato per semplificare la ricerca di proprietà, offrendo una navigazione intuitiva e presentando le offerte in modo chiaro ed elegante.
 <div align="center">
-    <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/bc838ada-fcbc-451d-a718-77b43b83d69e" alt="zanin" width="100%">
+    <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/bc838ada-fcbc-451d-a718-77b43b83d69e" alt="zm6" width="100%">
 </div>
 
 ---
@@ -96,7 +96,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 🔗 [DEMO](https://magenta-lamington-0e8dad.netlify.app/)
 **Descrizione:** Un quiz game realizzato con React. Questa app propone domande suddivise per difficoltà e consente agli utenti di selezionare la difficoltà che preferiscono. Ogni domanda ha quattro opzioni di risposta, con una sola risposta corretta. Alla fine mostra una lista con i risultati.
 <div align="center">
-    <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/64fed012-4585-4846-83fa-15ca3ba998ae" alt="pietro" width="100%">
+    <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/64fed012-4585-4846-83fa-15ca3ba998ae" alt="quiz react game" width="100%">
 </div>
 
 ---
