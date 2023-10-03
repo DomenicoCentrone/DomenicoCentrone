@@ -2,6 +2,8 @@
 
 Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con una breve descrizione per ciascuno dei miei clienti.
 
+<h1>CLIENTI</h1>
+
 ---
 
 ### 🏦 CFLF
@@ -31,16 +33,6 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ---
 
-### 🌩️ METEO APP IN REACT
-🔗 [REPO](https://github.com/DomenicoCentrone/meteo-app)
-🔗 [DEMO](https://resilient-dasik-15f023.netlify.app/)
-**Descrizione:** Questo progetto è una semplice applicazione React che permette agli utenti di cercare le condizioni meteo di una specifica città e mostra un'immagine di quella città.
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/76876906/271990291-e1db41a6-d4a8-483e-bb7c-961083db2dc5.png" alt="frogpay" width="100%">
-</div>
-
----
-
 ### 🚀 Giovannini & Partners
 🔗 [giovanninipartners.it](https://giovanninipartners.it/)
 **Descrizione:** Un sito web pensato per rappresentare l'expertise nel settore societario, bancario e finanziario. L'interfaccia e la struttura permettono una facile navigazione e accesso alle informazioni chiave.
@@ -58,6 +50,46 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 </div>
 
 ---
+
+### 🏡 Zm6 Immobiliare
+🔗 [zaninimmobiliare.com](https://zaninimmobiliare.com/)
+**Descrizione:** Un portale immobiliare progettato per semplificare la ricerca di proprietà, offrendo una navigazione intuitiva e presentando le offerte in modo chiaro ed elegante.
+<div align="center">
+    <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/bc838ada-fcbc-451d-a718-77b43b83d69e" alt="zanin" width="100%">
+</div>
+
+---
+
+
+### 🏞 Evocamp
+🔗 [evocamp.it](https://www.evocamp.it/)
+**Descrizione:** Ho contribuito a creare un'esperienza unica per i bambini con Evocamp, un campo sportivo che combina attività fisica, apprendimento e divertimento. Il sito è stato progettato per immergere l'utente nell'esperienza offerta da Evocamp, combinando visivamente attività fisica, apprendimento e divertimento.
+<div align="center">
+    <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/8bfc8ab5-f91d-4659-8d51-78c4fde2c2d9" alt="evocamp" width="100%">
+</div>
+
+---
+
+### 🎶 WEEEB Sonic
+🔗 [weeebsonic.com](https://weeebsonic.com/)
+**Descrizione:** Un esempio di come un sito web possa essere realizzato con efficienza, garantendo allo stesso tempo estetica accattivante e funzionalità.
+<div align="center">
+    <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/752e7483-d5eb-4409-adfc-23baba24f16a" alt="weeebsonic" width="100%">
+</div>
+
+---
+
+
+### 💄 Armocromia
+🔗 [aboutarmocromia.com](https://aboutarmocromia.com/)
+**Descrizione:** Un viaggio online nel mondo dei colori, progettato per esaltare l'importanza dell'espressione individuale attraverso un design vibrante e coinvolgente.
+<div align="center">
+    <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/7e6aaa3c-e639-4487-bc25-4ad017025ee7" alt="armocromia" width="100%">
+</div>
+
+---
+
+<h1>PROGETTI</h1>
 
 ### 📚 Quiz React Game 
 🔗 [REPO](https://github.com/DomenicoCentrone/quiz-react-app-game/tree/main)
@@ -77,30 +109,12 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ---
 
-### 🏞 Evocamp
-🔗 [evocamp.it](https://www.evocamp.it/)
-**Descrizione:** Ho contribuito a creare un'esperienza unica per i bambini con Evocamp, un campo sportivo che combina attività fisica, apprendimento e divertimento. Il sito è stato progettato per immergere l'utente nell'esperienza offerta da Evocamp, combinando visivamente attività fisica, apprendimento e divertimento.
-<div align="center">
-    <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/8bfc8ab5-f91d-4659-8d51-78c4fde2c2d9" alt="evocamp" width="100%">
-</div>
-
----
-
 ### 🏞 Tic-Tac-Toe
 🔗 [REPO](https://github.com/DomenicoCentrone/Tic-Tac-Toe-react)
 🔗 [DEMO](https://magenta-dragon-45c4ea.netlify.app/)
 **Descrizione:** Un semplice gioco di Tic-Tac-Toe realizzato con React.
 <div align="center">
     <img src="https://user-images.githubusercontent.com/76876906/271990212-e64ff636-f13f-4840-b42f-d890b1e145eb.png" alt="evocamp" width="100%">
-</div>
-
----
-
-### 🎶 WEEEB Sonic
-🔗 [weeebsonic.com](https://weeebsonic.com/)
-**Descrizione:** Un esempio di come un sito web possa essere realizzato con efficienza, garantendo allo stesso tempo estetica accattivante e funzionalità.
-<div align="center">
-    <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/752e7483-d5eb-4409-adfc-23baba24f16a" alt="weeebsonic" width="100%">
 </div>
 
 ---
@@ -115,20 +129,21 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ---
 
-### 💄 Armocromia
-🔗 [aboutarmocromia.com](https://aboutarmocromia.com/)
-**Descrizione:** Un viaggio online nel mondo dei colori, progettato per esaltare l'importanza dell'espressione individuale attraverso un design vibrante e coinvolgente.
-<div align="center">
-    <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/7e6aaa3c-e639-4487-bc25-4ad017025ee7" alt="armocromia" width="100%">
-</div>
-
----
-
 ### 🖼 SafeArt Dapp v2
 🔗 [DEMO](https://magical-monstera-dee01e.netlify.app/)
 **Descrizione**: SafeArt crea collezioni NFT di vari artisti in giro per il globo. Unendo arte e tecnologia, offre un portale dove gli artisti possono mostrare il loro talento in formato digitale attraverso gli NFT.
 <div align="center">
     <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/ee3ce440-3434-483d-8e1e-7627ca8a0224" alt="safeart" width="100%">
+</div>
+
+---
+
+### 🌩️ METEO APP IN REACT
+🔗 [REPO](https://github.com/DomenicoCentrone/meteo-app)
+🔗 [DEMO](https://resilient-dasik-15f023.netlify.app/)
+**Descrizione:** Questo progetto è una semplice applicazione React che permette agli utenti di cercare le condizioni meteo di una specifica città e mostra un'immagine di quella città.
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/76876906/271990291-e1db41a6-d4a8-483e-bb7c-961083db2dc5.png" alt="frogpay" width="100%">
 </div>
 
 ---
@@ -162,14 +177,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ---
 
-### 🏡 Zm6 Immobiliare
-🔗 [zaninimmobiliare.com](https://zaninimmobiliare.com/)
-**Descrizione:** Un portale immobiliare progettato per semplificare la ricerca di proprietà, offrendo una navigazione intuitiva e presentando le offerte in modo chiaro ed elegante.
-<div align="center">
-    <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/bc838ada-fcbc-451d-a718-77b43b83d69e" alt="zanin" width="100%">
-</div>
 
----
 
 **Domenico Centrone**
 
