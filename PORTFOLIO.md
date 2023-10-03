@@ -42,9 +42,9 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ---
 
-### 💉 Pietro La Salvia
+### 💉 Prof. Dott. Pietro Lasalvia
 🔗 [pietrolasalvia.it](https://pietrolasalvia.it/)
-**Descrizione:** Ho avuto l'onore di lavorare con il Dott. La Salvia, un esperto nel campo della psichiatria e psicoterapia. La sua vasta esperienza combina pratica clinica e docenza universitaria. Questo sito mette in luce l'esperienza e la competenza del Dott. La Salvia, combinando contenuti clinici con un design sobrio ed elegante.
+**Descrizione:** Ho avuto l'onore di lavorare con il Prof. Dott. Pietro Lasalvia, un esperto nel campo della psichiatria e psicoterapia. La sua vasta esperienza combina pratica clinica e docenza universitaria. Questo sito mette in luce l'esperienza e la competenza del Prof. Dott. Pietro Lasalvia, combinando contenuti clinici con un design sobrio ed elegante.
 <div align="center">
     <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/28d31f5a-e1e8-4191-a1ec-e3fb689ec2cb" alt="pietro" width="100%">
 </div>
