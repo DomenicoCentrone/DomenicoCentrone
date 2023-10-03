@@ -114,7 +114,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 🔗 [DEMO](https://magenta-dragon-45c4ea.netlify.app/)
 **Descrizione:** Un semplice gioco di Tic-Tac-Toe realizzato con React.
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/76876906/271990212-e64ff636-f13f-4840-b42f-d890b1e145eb.png" alt="evocamp" width="100%">
+    <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/d6a66834-1798-43d1-bf05-de8a941955fe" alt="evocamp" width="100%">
 </div>
 
 ---
