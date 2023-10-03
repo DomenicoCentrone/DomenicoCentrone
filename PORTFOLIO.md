@@ -6,7 +6,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ---
 
-### 🏦 CFLF  
+### 🏦 CFLF <img height="32" width="32" src="https://camo.githubusercontent.com/07d41773dc451bb5113d0a4d0b0e98e652d51375c0f367b6ab8e08f594045b69/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f776f726470726573732f3030302f666666" />
 🔗 [cflf.eu](https://cflf.eu/)
 **Descrizione:** Ho collaborato con CFLF, esperti nel complicato mondo della regolamentazione. La loro profonda conoscenza nel settore societario, bancario e finanziario permette loro di fornire consulenze mirate e assistenza giuridica.
 <div align="center">
