@@ -6,7 +6,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ---
 
-### 🏦 CFLF <img height="32" width="32" src="https://camo.githubusercontent.com/07d41773dc451bb5113d0a4d0b0e98e652d51375c0f367b6ab8e08f594045b69/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f776f726470726573732f3030302f666666" />
+### <img height="22" width="22" src="https://camo.githubusercontent.com/07d41773dc451bb5113d0a4d0b0e98e652d51375c0f367b6ab8e08f594045b69/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f776f726470726573732f3030302f666666" /> 🏦 CFLF
 🔗 [cflf.eu](https://cflf.eu/)
 **Descrizione:** Ho collaborato con CFLF, esperti nel complicato mondo della regolamentazione. La loro profonda conoscenza nel settore societario, bancario e finanziario permette loro di fornire consulenze mirate e assistenza giuridica.
 <div align="center">
@@ -15,7 +15,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ---
 
-### 🌳 Cereda Legnami
+### <img height="22" width="22" src="https://camo.githubusercontent.com/07d41773dc451bb5113d0a4d0b0e98e652d51375c0f367b6ab8e08f594045b69/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f776f726470726573732f3030302f666666" /> 🌳 Cereda Legnami
 🔗 [ceredalegnami.it](https://www.ceredalegnami.it/)
 **Descrizione:** Per Cereda Legnami, ho avuto l'opportunità di lavorare con veri artigiani del legno. Le loro creazioni combinano eleganza e robustezza, offrendo soluzioni sia innovative che tradizionali.
 <div align="center">
@@ -24,7 +24,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ---
 
-### 🌐 FrogPay
+### <img height="22" width="22" src="https://camo.githubusercontent.com/41fa7c533d65c5a05dab54c30d1419990d623cdecda42bb676f4dd66865fe790/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f72656163742f3030302f666666" /> 🌐 FrogPay
 🔗 [frogpay.io](https://frogpay.io/)
 **Descrizione:** FrogPay sta cambiando il modo in cui pensiamo alle transazioni, introducendo la prima opzione di rimborso basata su blockchain. Sono orgoglioso di aver fatto parte di questo progetto rivoluzionario.
 <div align="center">
@@ -33,7 +33,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ---
 
-### 🚀 Giovannini & Partners
+### <img height="22" width="22" src="https://camo.githubusercontent.com/07d41773dc451bb5113d0a4d0b0e98e652d51375c0f367b6ab8e08f594045b69/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f776f726470726573732f3030302f666666" /> 🚀 Giovannini & Partners
 🔗 [giovanninipartners.it](https://giovanninipartners.it/)
 **Descrizione:** Un sito web pensato per rappresentare l'expertise nel settore societario, bancario e finanziario. L'interfaccia e la struttura permettono una facile navigazione e accesso alle informazioni chiave.
 <div align="center">
@@ -42,7 +42,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ---
 
-### 💉 Prof. Dott. Pietro Lasalvia
+### <img height="22" width="22" src="https://camo.githubusercontent.com/07d41773dc451bb5113d0a4d0b0e98e652d51375c0f367b6ab8e08f594045b69/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f776f726470726573732f3030302f666666" /> 💉 Prof. Dott. Pietro Lasalvia
 🔗 [pietrolasalvia.it](https://pietrolasalvia.it/)
 **Descrizione:** Ho avuto l'onore di lavorare con il Prof. Dott. Pietro Lasalvia, un esperto nel campo della psichiatria e psicoterapia. La sua vasta esperienza combina pratica clinica e docenza universitaria. Questo sito mette in luce l'esperienza e la competenza del Prof. Dott. Pietro Lasalvia, combinando contenuti clinici con un design sobrio ed elegante.
 <div align="center">
@@ -51,7 +51,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ---
 
-### 🏡 Zm6 Immobiliare
+### <img height="22" width="22" src="https://camo.githubusercontent.com/07d41773dc451bb5113d0a4d0b0e98e652d51375c0f367b6ab8e08f594045b69/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f776f726470726573732f3030302f666666" /> 🏡 Zm6 Immobiliare
 🔗 [zaninimmobiliare.com](https://zaninimmobiliare.com/)
 **Descrizione:** Un portale immobiliare progettato per semplificare la ricerca di proprietà, offrendo una navigazione intuitiva e presentando le offerte in modo chiaro ed elegante.
 <div align="center">
@@ -61,7 +61,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 ---
 
 
-### 🏞 Evocamp
+### <img height="22" width="22" src="https://camo.githubusercontent.com/07d41773dc451bb5113d0a4d0b0e98e652d51375c0f367b6ab8e08f594045b69/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f776f726470726573732f3030302f666666" /> 🏞 Evocamp
 🔗 [evocamp.it](https://www.evocamp.it/)
 **Descrizione:** Ho contribuito a creare un'esperienza unica per i bambini con Evocamp, un campo sportivo che combina attività fisica, apprendimento e divertimento. Il sito è stato progettato per immergere l'utente nell'esperienza offerta da Evocamp, combinando visivamente attività fisica, apprendimento e divertimento.
 <div align="center">
@@ -70,7 +70,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ---
 
-### 🎶 WEEEB Sonic
+### <img height="22" width="22" src="https://camo.githubusercontent.com/07d41773dc451bb5113d0a4d0b0e98e652d51375c0f367b6ab8e08f594045b69/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f776f726470726573732f3030302f666666" /> 🎶 WEEEB Sonic
 🔗 [weeebsonic.com](https://weeebsonic.com/)
 **Descrizione:** Un esempio di come un sito web possa essere realizzato con efficienza, garantendo allo stesso tempo estetica accattivante e funzionalità.
 <div align="center">
@@ -80,7 +80,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 ---
 
 
-### 💄 Armocromia
+### <img height="22" width="22" src="https://camo.githubusercontent.com/07d41773dc451bb5113d0a4d0b0e98e652d51375c0f367b6ab8e08f594045b69/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f776f726470726573732f3030302f666666" /> 💄 Armocromia
 🔗 [aboutarmocromia.com](https://aboutarmocromia.com/)
 **Descrizione:** Un viaggio online nel mondo dei colori, progettato per esaltare l'importanza dell'espressione individuale attraverso un design vibrante e coinvolgente.
 <div align="center">
@@ -91,7 +91,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 <h1>PROGETTI</h1>
 
-### 📚 Quiz React Game 
+### <img height="22" width="22" src="https://camo.githubusercontent.com/41fa7c533d65c5a05dab54c30d1419990d623cdecda42bb676f4dd66865fe790/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f72656163742f3030302f666666" /> 📚 Quiz React Game 
 🔗 [REPO](https://github.com/DomenicoCentrone/quiz-react-app-game/tree/main)
 🔗 [DEMO](https://magenta-lamington-0e8dad.netlify.app/)
 **Descrizione:** Un quiz game realizzato con React. Questa app propone domande suddivise per difficoltà e consente agli utenti di selezionare la difficoltà che preferiscono. Ogni domanda ha quattro opzioni di risposta, con una sola risposta corretta. Alla fine mostra una lista con i risultati.
@@ -101,7 +101,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ---
 
-### 🦅 Gioco del Corvo BOT Telegram
+### <img height="22" width="22" src="https://camo.githubusercontent.com/6cbfa61b54d75ae31cddc73a3aa80a92963dcd560f0832764e1522e51a9bf927/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f707974686f6e2f3030302f666666" /> 🦅 Gioco del Corvo BOT Telegram
 **Descrizione:** Uno dei miei progetti personali è il bot Telegram interattivo, dove gli utenti possono giocare a turni in stile "rovinato dal corvo", un mix di strategia, fortuna e intuizione.
 <div align="center">
     <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/ba327d8a-8a7e-481c-a777-13b5f3366f81" alt="corvo" width="100%">
@@ -109,7 +109,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ---
 
-### 🏞 Tic-Tac-Toe
+### <img height="22" width="22" src="https://camo.githubusercontent.com/41fa7c533d65c5a05dab54c30d1419990d623cdecda42bb676f4dd66865fe790/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f72656163742f3030302f666666" /> 🏞 Tic-Tac-Toe
 🔗 [REPO](https://github.com/DomenicoCentrone/Tic-Tac-Toe-react)
 🔗 [DEMO](https://magenta-dragon-45c4ea.netlify.app/)
 **Descrizione:** Un semplice gioco di Tic-Tac-Toe realizzato con React.
@@ -119,7 +119,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ---
 
-### 🦎 Coingecko App Clone Api React
+### <img height="22" width="22" src="https://camo.githubusercontent.com/41fa7c533d65c5a05dab54c30d1419990d623cdecda42bb676f4dd66865fe790/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f72656163742f3030302f666666" /> 🦎 Coingecko App Clone Api React
 🔗 [REPO](https://github.com/DomenicoCentrone/coingecko-api-app)
 🔗 [DEMO](https://jocular-baklava-b8d3ab.netlify.app/)
 **Descrizione:** Una semplice dashboard che mostra le top 10 criptovalute con dettagli come prezzo, variazione percentuale nelle ultime ore e giorni, volume e capitalizzazione di mercato. La dashboard è ottimizzata sia per dispositivi desktop che mobile.
@@ -129,7 +129,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ---
 
-### 🖼 SafeArt Dapp v2
+### <img height="22" width="22" src="https://camo.githubusercontent.com/41fa7c533d65c5a05dab54c30d1419990d623cdecda42bb676f4dd66865fe790/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f72656163742f3030302f666666" /> 🖼 SafeArt Dapp v2
 🔗 [DEMO](https://magical-monstera-dee01e.netlify.app/)
 **Descrizione**: SafeArt crea collezioni NFT di vari artisti in giro per il globo. Unendo arte e tecnologia, offre un portale dove gli artisti possono mostrare il loro talento in formato digitale attraverso gli NFT.
 <div align="center">
@@ -138,7 +138,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ---
 
-### 🌩️ METEO APP IN REACT
+### <img height="22" width="22" src="https://camo.githubusercontent.com/41fa7c533d65c5a05dab54c30d1419990d623cdecda42bb676f4dd66865fe790/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f72656163742f3030302f666666" /> 🌩️ METEO APP IN REACT
 🔗 [REPO](https://github.com/DomenicoCentrone/meteo-app)
 🔗 [DEMO](https://resilient-dasik-15f023.netlify.app/)
 **Descrizione:** Questo progetto è una semplice applicazione React che permette agli utenti di cercare le condizioni meteo di una specifica città e mostra un'immagine di quella città.
@@ -148,7 +148,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ---
 
-### 🧩 QR Code Generator
+### <img height="22" width="22" src="https://camo.githubusercontent.com/41fa7c533d65c5a05dab54c30d1419990d623cdecda42bb676f4dd66865fe790/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f72656163742f3030302f666666" /> 🧩 QR Code Generator
 🔗 [REPO](https://github.com/DomenicoCentrone/Qr-Code-Generator)
 🔗 [DEMO](https://ubiquitous-phoenix-f5eeda.netlify.app/)
 **Descrizione**: Questo strumento offre una soluzione semplice e rapida per generare codici QR. Basta fornire un link e il generatore creerà un QR code pronto all'uso, ottimo per eventi, marketing o qualsiasi altra necessità.
@@ -158,7 +158,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ---
 
-### 🎲 DnD-Next
+### <img height="22" width="22" src="https://camo.githubusercontent.com/07d41773dc451bb5113d0a4d0b0e98e652d51375c0f367b6ab8e08f594045b69/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f776f726470726573732f3030302f666666" /> 🎲 DnD-Next
 🔗 [dnd-next.com](https://dnd-next.com/)
 **Descrizione:** Un sito web che fonde la passione per i giochi di ruolo con le più moderne tecnologie, offrendo un'esperienza digitale avanzata per gli appassionati di Dungeons & Dragons.
 <div align="center">
@@ -167,7 +167,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ---
 
-### 📱 IOS Clone App
+### <img height="22" width="22" src="https://camo.githubusercontent.com/41fa7c533d65c5a05dab54c30d1419990d623cdecda42bb676f4dd66865fe790/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f72656163742f3030302f666666" /> 📱 IOS Clone App
 🔗 [REPO](https://github.com/DomenicoCentrone/calcolatrice-scientifica-react/blob/main/README.md)
 🔗 [DEMO](https://preeminent-stardust-cd8e1f.netlify.app/)
 **Descrizione:** Un clone della famosa app IOS Calcolatrice
