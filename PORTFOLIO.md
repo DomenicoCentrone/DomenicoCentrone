@@ -96,7 +96,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 🔗 [DEMO](https://magenta-lamington-0e8dad.netlify.app/)
 **Descrizione:** Un quiz game realizzato con React. Questa app propone domande suddivise per difficoltà e consente agli utenti di selezionare la difficoltà che preferiscono. Ogni domanda ha quattro opzioni di risposta, con una sola risposta corretta. Alla fine mostra una lista con i risultati.
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/76876906/272008487-eca6b973-0b71-4ee8-a9e7-cb79497474fd.png" alt="pietro" width="100%">
+    <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/64fed012-4585-4846-83fa-15ca3ba998ae" alt="pietro" width="100%">
 </div>
 
 ---
