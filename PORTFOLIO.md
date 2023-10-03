@@ -143,7 +143,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 🔗 [DEMO](https://resilient-dasik-15f023.netlify.app/)
 **Descrizione:** Questo progetto è una semplice applicazione React che permette agli utenti di cercare le condizioni meteo di una specifica città e mostra un'immagine di quella città.
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/76876906/271990291-e1db41a6-d4a8-483e-bb7c-961083db2dc5.png" alt="frogpay" width="100%">
+    <img src="https://github.com/DomenicoCentrone/meteo-app/assets/76876906/fbf6856f-a387-427e-a2a6-1e280b20943f" alt="frogpay" width="100%">
 </div>
 
 ---
