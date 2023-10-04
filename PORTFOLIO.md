@@ -148,6 +148,16 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ---
 
+### <img height="22" width="22" src="https://camo.githubusercontent.com/41fa7c533d65c5a05dab54c30d1419990d623cdecda42bb676f4dd66865fe790/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f72656163742f3030302f666666" /> 🐍 Snake Game App React
+🔗 [REPO](https://github.com/DomenicoCentrone/snake-game-react)
+🔗 [DEMO](https://resilient-dasik-15f023.netlify.app/)
+**Descrizione:** Questo progetto è una semplice applicazione React che permette agli utenti di cercare le condizioni meteo di una specifica città e mostra un'immagine di quella città.
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/76876906/272579894-a378f0c8-a822-4547-969d-4eb02d536a41.png" alt="frogpay" width="100%">
+</div>
+
+---
+
 ### <img height="22" width="22" src="https://camo.githubusercontent.com/41fa7c533d65c5a05dab54c30d1419990d623cdecda42bb676f4dd66865fe790/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f72656163742f3030302f666666" /> 🧩 QR Code Generator
 🔗 [REPO](https://github.com/DomenicoCentrone/Qr-Code-Generator)
 🔗 [DEMO](https://ubiquitous-phoenix-f5eeda.netlify.app/)
