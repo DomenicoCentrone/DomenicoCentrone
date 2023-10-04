@@ -6,7 +6,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 1. [Introduzione](#🎨-PORTFOLIO)
 2. [Clienti](#CLIENTI)
-   - [CFLF](#-🏦-CFLF)
+   - [CFLF](#-🏦-cflf)
    - [Cereda Legnami](#-🌳-Cereda-Legnami)
    - [FrogPay](#-🌐-FrogPay)
    - [Giovannini & Partners](#-🚀-Giovannini-&-Partners)
