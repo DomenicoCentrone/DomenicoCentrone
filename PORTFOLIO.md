@@ -2,6 +2,24 @@
 
 Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con una breve descrizione per ciascuno dei miei clienti.
 
+# Indice
+
+1. [Introduzione](#🎨-PORTFOLIO)
+2. [Clienti](#CLIENTI)
+   - [CFLF](#-🏦-CFLF)
+   - [Cereda Legnami](#-🌳-Cereda-Legnami)
+   - [FrogPay](#-🌐-FrogPay)
+   - [Giovannini & Partners](#-🚀-Giovannini-&-Partners)
+   - [Prof. Dott. Pietro Lasalvia](#-💉-Prof.-Dott.-Pietro-Lasalvia)
+   - [Zm6 Immobiliare](#-🏡-Zm6-Immobiliare)
+   - [Evocamp](#-🏞-Evocamp)
+   - [WEEEB Sonic](#-🎶-WEEEB-Sonic)
+   - [Armocromia](#-💄-Armocromia)
+3. [Progetti](#PROGETTI)
+   - [Quiz React Game](#-📚-Quiz-React-Game)
+   - [Gioco del Corvo BOT Telegram](#-🦅-Gioco-del-Corvo-BOT-Telegram)
+
+
 <h1>CLIENTI</h1>
 
 ---
