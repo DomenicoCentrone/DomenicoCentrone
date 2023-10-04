@@ -4,9 +4,8 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 # Indice
 
-1. [Introduzione](#🎨-PORTFOLIO)
-2. [Clienti](#CLIENTI)
-3. [Progetti](#PROGETTI)
+1. [Clienti](#CLIENTI)
+2. [Progetti](#PROGETTI)
 
 
 <h1>CLIENTI</h1>
