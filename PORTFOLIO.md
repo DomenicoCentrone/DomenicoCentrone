@@ -160,7 +160,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 🔺 [DEMO ANGULAR](https://651e91ec7b7a86095afc2697--gentle-pixie-33910b.netlify.app/)
 **Descrizione:** Questo progetto è una semplice applicazione React che permette agli utenti di cercare le condizioni meteo di una specifica città e mostra un'immagine di quella città.
 <div align="center">
-    <img src="https://github.com/DomenicoCentrone/meteo-app/assets/76876906/fbf6856f-a387-427e-a2a6-1e280b20943f" alt="frogpay" width="100%">
+    <img src="https://github.com/DomenicoCentrone/meteo-app/assets/76876906/fbf6856f-a387-427e-a2a6-1e280b20943f" alt="meteo app" width="100%">
 </div>
 
 ---
@@ -170,7 +170,17 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 🔗 [DEMO](https://animated-kulfi-26351a.netlify.app/)
 **Descrizione:** Questo progetto è una semplice applicazione React che permette agli utenti di cercare le condizioni meteo di una specifica città e mostra un'immagine di quella città.
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/76876906/272579894-a378f0c8-a822-4547-969d-4eb02d536a41.png" alt="frogpay" width="100%">
+    <img src="https://user-images.githubusercontent.com/76876906/272579894-a378f0c8-a822-4547-969d-4eb02d536a41.png" alt="snake game app react" width="100%">
+</div>
+
+---
+
+### <img height="22" width="22" src="https://camo.githubusercontent.com/41fa7c533d65c5a05dab54c30d1419990d623cdecda42bb676f4dd66865fe790/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f72656163742f3030302f666666" /> 🔺 Landing Page Angular
+🔗 [REPO](https://github.com/DomenicoCentrone/landing-page-angular)
+🔗 [DEMO](https://651eb1acd773331e2998d0d9--wondrous-strudel-614005.netlify.app/)
+**Descrizione:** Una semplice Landing Page per imparare i concetti base di angular
+<div align="center">
+    <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/8ff7654f-df8b-47c5-b256-a9858d07a323" alt="landing page angular" width="100%">
 </div>
 
 ---
