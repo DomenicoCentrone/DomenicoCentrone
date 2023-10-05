@@ -95,6 +95,15 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ---
 
+### <img height="22" width="22" src="https://camo.githubusercontent.com/07d41773dc451bb5113d0a4d0b0e98e652d51375c0f367b6ab8e08f594045b69/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f776f726470726573732f3030302f666666" /> 🎲 DnD-Next
+🔗 [dnd-next.com](https://dnd-next.com/)
+**Descrizione:** Un sito web che fonde la passione per i giochi di ruolo con le più moderne tecnologie, offrendo un'esperienza digitale avanzata per gli appassionati di Dungeons & Dragons.
+<div align="center">
+    <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/a7f7b1b3-cf30-498e-9d6f-db30da78f028" alt="dnd" width="100%">
+</div>
+
+---
+
 <h1>PROGETTI</h1>
 
 ### <img height="22" width="22" src="https://camo.githubusercontent.com/41fa7c533d65c5a05dab54c30d1419990d623cdecda42bb676f4dd66865fe790/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f72656163742f3030302f666666" /> 📚 Quiz React Game 
@@ -170,15 +179,6 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 **Descrizione**: Questo strumento offre una soluzione semplice e rapida per generare codici QR. Basta fornire un link e il generatore creerà un QR code pronto all'uso, ottimo per eventi, marketing o qualsiasi altra necessità.
 <div align="center">
     <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/e4f24a63-4e83-44ef-a6cf-673f6e8db458" alt="qrcode" width="100%">
-</div>
-
----
-
-### <img height="22" width="22" src="https://camo.githubusercontent.com/07d41773dc451bb5113d0a4d0b0e98e652d51375c0f367b6ab8e08f594045b69/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f776f726470726573732f3030302f666666" /> 🎲 DnD-Next
-🔗 [dnd-next.com](https://dnd-next.com/)
-**Descrizione:** Un sito web che fonde la passione per i giochi di ruolo con le più moderne tecnologie, offrendo un'esperienza digitale avanzata per gli appassionati di Dungeons & Dragons.
-<div align="center">
-    <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/a7f7b1b3-cf30-498e-9d6f-db30da78f028" alt="dnd" width="100%">
 </div>
 
 ---
