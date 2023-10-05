@@ -8,8 +8,7 @@
 ---
 
 ## 🙋 Chi sono
-Programmatore web in fase di apprendimento con una crescente esperienza nello sviluppo di applicazioni web e siti internet. Desideroso di collaborare in team e apprendere per meglio soddisfare le esigenze dei clienti.
-
+Sono un programmatore web dinamico e in continua crescita, con una solida esperienza in tecnologie chiave come React e Firebase. La mia capacità di sfruttare efficacemente le ricerche su Google mi permette di affrontare e risolvere problemi in modo efficiente. Mentre il mio impegno nel sviluppo di progetti personali evidenzia la mia autonomia e iniziativa, sono altrettanto pronto a immergermi in nuovi linguaggi o framework per assicurare risultati ottimali. La collaborazione di squadra e l'adattabilità al cambiamento sono pilastri della mia professionalità, sempre con l'obiettivo di superare le aspettative dei clienti.
 ---
 
 ## 📚 Formazione
