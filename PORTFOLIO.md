@@ -153,9 +153,12 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ---
 
-### <img height="22" width="22" src="https://camo.githubusercontent.com/41fa7c533d65c5a05dab54c30d1419990d623cdecda42bb676f4dd66865fe790/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f72656163742f3030302f666666" /> 🌩️ METEO APP IN REACT
-🔗 [REPO](https://github.com/DomenicoCentrone/meteo-app)
-🔗 [DEMO](https://resilient-dasik-15f023.netlify.app/)
+### <img height="22" width="22" src="https://camo.githubusercontent.com/41fa7c533d65c5a05dab54c30d1419990d623cdecda42bb676f4dd66865fe790/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f72656163742f3030302f666666" />
+<img height="22" width="22" src="https://camo.githubusercontent.com/d4dde0dd805e7269d3998d6387357b4bf64fb22321b890b4cb0e76f5525aa306/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f616e67756c61722f3030302f666666" />🌩️ METEO APP IN REACT & ANGULAR
+🔗 [REPO REACT](https://github.com/DomenicoCentrone/meteo-app)
+🔗 [DEMO REACT](https://resilient-dasik-15f023.netlify.app/)
+🔗 [REPO ANGULAR](https://github.com/DomenicoCentrone/meteo-app)
+🔗 [DEMO ANGULAR](https://resilient-dasik-15f023.netlify.app/)
 **Descrizione:** Questo progetto è una semplice applicazione React che permette agli utenti di cercare le condizioni meteo di una specifica città e mostra un'immagine di quella città.
 <div align="center">
     <img src="https://github.com/DomenicoCentrone/meteo-app/assets/76876906/fbf6856f-a387-427e-a2a6-1e280b20943f" alt="frogpay" width="100%">
