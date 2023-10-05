@@ -175,7 +175,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ---
 
-### <img height="22" width="22" src="https://camo.githubusercontent.com/41fa7c533d65c5a05dab54c30d1419990d623cdecda42bb676f4dd66865fe790/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f72656163742f3030302f666666" /> 🔺 Landing Page Angular
+### <img height="22" width="22" src="https://camo.githubusercontent.com/d4dde0dd805e7269d3998d6387357b4bf64fb22321b890b4cb0e76f5525aa306/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f616e67756c61722f3030302f666666" /> 🔺 Landing Page Angular
 🔗 [REPO](https://github.com/DomenicoCentrone/landing-page-angular)
 🔗 [DEMO](https://651eb1acd773331e2998d0d9--wondrous-strudel-614005.netlify.app/)
 **Descrizione:** Una semplice Landing Page per imparare i concetti base di angular
