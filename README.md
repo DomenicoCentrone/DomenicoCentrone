@@ -1,9 +1,22 @@
 # Centrone Domenico - Programmatore Web
 
-
 📧 **Email:** [domenico.work22@gmail.com](mailto:domenico.work22@gmail.com)  
 🌐 **Sito Web:** [roswp.com](http://roswp.com)  
 🎨 **Portfolio:** [Portfolio](https://github.com/DomenicoCentrone/DomenicoCentrone/blob/main/PORTFOLIO.md)  
+
+<div>
+  <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" />
+  <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
+  <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
+  <img height="32" width="32" src="https://camo.githubusercontent.com/41fa7c533d65c5a05dab54c30d1419990d623cdecda42bb676f4dd66865fe790/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f72656163742f3030302f666666" />
+  <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/7016/7016523.png" />
+  <img height="32" width="32" src="https://p7.hiclipart.com/preview/306/37/167/node-js-javascript-web-application-express-js-computer-software-others.jpg" />
+  <img height="32" width="32" src="https://pluspng.com/img-png/firebase-logo-png-firebase-logo-png-transparent-amp-svg-vector-pluspng-2400x3291.png" />
+  <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/174/174881.png" />
+  <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/300/300221.png" />
+  <img height="32" width="32" src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png.png" />
+</div>
+
 
 ---
 
