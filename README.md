@@ -2,7 +2,10 @@
 
 📧 **Email:** [domenico.work22@gmail.com](mailto:domenico.work22@gmail.com)  
 🌐 **Sito Web:** [roswp.com](http://roswp.com)  
-🎨 **Portfolio:** [Portfolio](https://github.com/DomenicoCentrone/DomenicoCentrone/blob/main/PORTFOLIO.md)  
+🎨 **Portfolio:** [Portfolio](https://github.com/DomenicoCentrone/DomenicoCentrone/blob/main/PORTFOLIO.md)
+
+🌱 ... imparando **Angular**
+
 
 <div>
   <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" />
