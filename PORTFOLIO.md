@@ -205,10 +205,12 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ---
 
+###🚧 IN SVILUPPO
+
 ### <img height="22" width="22" src="https://camo.githubusercontent.com/d4dde0dd805e7269d3998d6387357b4bf64fb22321b890b4cb0e76f5525aa306/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f616e67756c61722f3030302f666666" /> 🔺 D&D Tracker in Angular 
 🔗 [REPO](https://github.com/DomenicoCentrone/ded-app-angular)
 🔗 [DEMO](https://6527ef3c1565120eba6197a0--relaxed-dusk-8ac98e.netlify.app/)
-**Descrizione:** Un clone della famosa app IOS Calcolatrice
+**Descrizione:** Una delle mie prime realizzazioni con Angular. L'obiettivo principale è quello di fornire uno strumento che faciliti il tracciamento delle statistiche relative alle partite di Dungeons & Dragons. Come sistema di backend, ho optato per Firebase. Attualmente, l'applicazione offre la possibilità di registrarsi, accedere e inserire dati relativi ai propri Personaggi di D&D. Le funzionalità aggiuntive sono in fase di sviluppo.
 <div align="center">
     <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/3510d03b-697b-411d-a09e-f6bab8d5f505" alt="dnd" width="100%">
 </div>
