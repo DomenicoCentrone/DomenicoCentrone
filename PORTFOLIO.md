@@ -212,7 +212,7 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 🔗 [DEMO](https://6527ef3c1565120eba6197a0--relaxed-dusk-8ac98e.netlify.app/)
 **Descrizione:** Una delle mie prime realizzazioni con Angular. L'obiettivo principale è quello di fornire uno strumento che faciliti il tracciamento delle statistiche relative alle partite di Dungeons & Dragons. Come sistema di backend, ho optato per Firebase. Attualmente, l'applicazione offre la possibilità di registrarsi, accedere e inserire dati relativi ai propri Personaggi di D&D. Le funzionalità aggiuntive sono in fase di sviluppo.
 <div align="center">
-    <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/3510d03b-697b-411d-a09e-f6bab8d5f505" alt="dnd" width="100%">
+    <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/05f226f3-6b8e-4943-84c9-efb5c3ba0775" alt="dnd" width="100%">
 </div>
 
 ---
