@@ -5,7 +5,7 @@
 🎨 **Portfolio:** [Portfolio](https://github.com/DomenicoCentrone/DomenicoCentrone/blob/main/PORTFOLIO.md)
 
 🌱 ... imparando **Angular**
-
+🌱 ... imparando **DevOps**
 
 <div>
   <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" />
