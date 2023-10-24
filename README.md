@@ -4,7 +4,8 @@
 🌐 **Sito Web:** [roswp.com](http://roswp.com)  
 🎨 **Portfolio:** [Portfolio](https://github.com/DomenicoCentrone/DomenicoCentrone/blob/main/PORTFOLIO.md)
 
-🌱 ... imparando **Angular**<br></br>
+🌱 ... imparando **Angular**
+
 🌱 ... imparando **DevOps**
 
 <div>
