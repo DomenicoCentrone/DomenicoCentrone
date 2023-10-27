@@ -12,6 +12,15 @@ Benvenuti nel mio portfolio! Ecco una raccolta di progetti realizzati da me, con
 
 ---
 
+### <img height="22" width="22" src="https://camo.githubusercontent.com/07d41773dc451bb5113d0a4d0b0e98e652d51375c0f367b6ab8e08f594045b69/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f776f726470726573732f3030302f666666" /> 📷 Alessia Grambone Fashion Photographer
+🔗 WORK IN PROGRESS
+**Descrizione:** Alessia Grambone, fotografa di moda romana e influencer con oltre 100k follower su Instagram, è nota per le collaborazioni con Porsche Italia e "Vanity Fair". Laureata alla "La Sapienza" e dotata di attrezzatura Nikon d'elite, ha sentito l'esigenza di avere un sito web personale; una piattaforma su cui poter gestire le prenotazioni dei suoi clienti per i shooting fotografici e offrire in vendita i suoi esclusivi presets per Lightroom.
+<div align="center">
+    <img src="https://github.com/DomenicoCentrone/DomenicoCentrone/assets/76876906/2d181e37-3ae4-4e2e-8da0-f673bb56dba3" alt="cflf" width="100%">
+</div>
+
+---
+
 ### <img height="22" width="22" src="https://camo.githubusercontent.com/07d41773dc451bb5113d0a4d0b0e98e652d51375c0f367b6ab8e08f594045b69/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f776f726470726573732f3030302f666666" /> 🏦 CFLF
 🔗 [cflf.eu](https://cflf.eu/)
 **Descrizione:** Ho collaborato con CFLF, esperti nel complicato mondo della regolamentazione. La loro profonda conoscenza nel settore societario, bancario e finanziario permette loro di fornire consulenze mirate e assistenza giuridica.
