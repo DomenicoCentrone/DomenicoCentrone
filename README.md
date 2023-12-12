@@ -6,7 +6,7 @@
 
 🌱 ... imparando **Angular**
 
-🌱 ... imparando **DevOps**
+🌱 ... **DevOps**
 
 <div>
   <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" />
