@@ -114,8 +114,6 @@ Disponibili su richiesta.
 - Firebase
 - WordPress
 - Blockchain
-- Google
-- ChatGPT
 
 ---
 
