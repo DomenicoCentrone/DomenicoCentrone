@@ -35,13 +35,6 @@ I am a **DevOps Engineer** focused on building scalable cloud infrastructures an
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=IL_TUO_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
 
 ### 📫 Connect with me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](INSERISCI_QUI_IL_TUO_LINK_LINKEDIN)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](Domenico Centrone)
