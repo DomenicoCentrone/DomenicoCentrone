@@ -37,4 +37,4 @@ I am a **DevOps Engineer** focused on building scalable cloud infrastructures an
 
 
 ### 📫 Connect with me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](Domenico Centrone)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/centronedomenico/)
